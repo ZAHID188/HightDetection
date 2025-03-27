@@ -19,3 +19,4 @@
     -    ```v4l2-ctl --list-devices```
     - ```v4l2-ctl --device=/dev/videoX --all```
     - `sudo apt install cheese` then `run cheese`
+    - Note:[if virtual os like linux please ensure your camera is working either install `virtual extension_pack`]remember to give permission to access the camera `sudo usermod -a -G video zahid`
