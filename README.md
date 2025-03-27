@@ -12,7 +12,7 @@
 2.	A reference object of known dimensions to establish scale.
 
 ### Requiremets
-- python version 3.8.20(conda activate myenv)
+- python version 3.8.20(conda activate myenv)(`conda create --name my_Obj_Height python=3.8.20`)
 
 - Check for camera devices:
     - ` ls -l /dev/video* `
