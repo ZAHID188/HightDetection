@@ -1,7 +1,7 @@
 import cv2
 
 # Open the default camera (usually webcam)
-cap = cv2.VideoCapture(0)  # 0 is the default camera, use 1, 2, etc. for additional cameras
+cap = cv2.VideoCapture(1)  # 0 is the default camera, use 1, 2, etc. for additional cameras
 
 # Check if camera opened successfully
 if not cap.isOpened():
