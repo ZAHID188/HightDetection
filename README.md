@@ -26,5 +26,5 @@
 - First ensure the actual hight of the object using a physical scale then 
 - Then put the object away from the camera and resize your screen scale until matching the height you've measured
 - Then remember the distance everytime you put an object in same location you can get the actual height of the  object
-# Output of the results
+# Output
 ![Online Logo](res/image.png)
